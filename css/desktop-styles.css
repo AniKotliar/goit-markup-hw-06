@@ -135,11 +135,6 @@ body {
   background: #404bbf;
 }
 
-.menu-link:hover,
-.menu-link:focus {
-  color: #404bbf;
-}
-
 .contacts {
   font-style: normal;
 }
