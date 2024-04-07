@@ -670,7 +670,7 @@ body {
 @media screen and (min-width: 768px) {
 
     .portfolio-list-item {
-        width: calc((100% - 72px) / 2);
+        width: calc((100% - 24px) / 2);
     }
 
     .portfolio-list {
@@ -971,6 +971,7 @@ body {
 }
 
 .social-media-footer-text {
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
